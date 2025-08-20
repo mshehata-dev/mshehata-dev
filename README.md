@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Mohamed%20Shehata&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descSize=20&descAlignY=65)
 
-# 👋 Hi, I'm Mohamed (mshehata-dev)
+# 👋 Hi, I'm Mohamed
 
 💻 **Senior Frontend Engineer** with **7+ years of experience** building user-friendly, high-performance web apps.  
 ⚡ Skilled at turning complex ideas into intuitive UIs, with proven delivery on **enterprise platforms, smart city systems, and fintech solutions**.  
