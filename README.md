@@ -46,12 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshehata-dev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshehata-dev&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/mohamed-shehata1)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:shehata153@gmail.com)  
